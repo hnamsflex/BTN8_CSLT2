@@ -1,3 +1,4 @@
+#quang_thong
 m=int(input())
 n=int(input())
 if(m==n):

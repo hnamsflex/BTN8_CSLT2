@@ -1,3 +1,4 @@
+#quang_thong
 dem=0
 tong=0
 while True:
@@ -11,3 +12,4 @@ if(dem==1):
 else:
     ave=tong/(dem-1)
     print(ave)
+    
