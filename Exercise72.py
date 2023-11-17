@@ -1,3 +1,4 @@
+#thanh_van
 str_input = input("Enter string:")
 length = len(str_input)
 x = 0
