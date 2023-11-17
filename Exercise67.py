@@ -1,3 +1,4 @@
+#hoai_nam
 total_cost = 0
 while True:
     age_input = input("Enter guest age:")

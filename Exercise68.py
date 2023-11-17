@@ -1,3 +1,4 @@
+#hoai_nam
 while True:
     bits_input = input("Enter 8 bits:")
 
