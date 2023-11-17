@@ -11,3 +11,4 @@ x=len(S)
 for i in range(x-1,-1,-1):
     Sn=Sn+S[i]
 print(Sn)
+
